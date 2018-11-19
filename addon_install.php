@@ -10,7 +10,7 @@ $addons = [
         'extractPath' => '/',
     ],
     [
-        'zip' => 'https://github.com/pauloamgomes/ImageStyles/archive/1.7.zip',
+        'zip' => 'https://github.com/pauloamgomes/ImageStyles/archive/1.9.1.zip',
         'name' => 'ImageStyles',
         'extractPath' => '/',
     ],
